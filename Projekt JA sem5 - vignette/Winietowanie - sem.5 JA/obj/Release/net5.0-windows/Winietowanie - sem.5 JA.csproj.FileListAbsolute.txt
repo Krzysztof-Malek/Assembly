@@ -1,0 +1,53 @@
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.exe
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.deps.json
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.json
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie___sem._5_JA.Form1.resources
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.GenerateResource.cache
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfo.cs
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\MyDll\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.genruntimeconfig.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.exe
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.deps.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie___sem._5_JA.Form1.resources
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.GenerateResource.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfo.cs
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.genruntimeconfig.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.exe
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.deps.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.runtimeconfig.dev.json
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\bin\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie___sem._5_JA.Form1.resources
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.GenerateResource.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.AssemblyInfo.cs
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\ref\Winietowanie - sem.5 JA.dll
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.pdb
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.genruntimeconfig.cache
+C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\obj\Release\net5.0-windows\Winietowanie - sem.5 JA.csproj.AssemblyReference.cache

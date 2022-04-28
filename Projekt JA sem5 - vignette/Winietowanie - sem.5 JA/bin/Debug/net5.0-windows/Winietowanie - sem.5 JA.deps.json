@@ -1,0 +1,26 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Winietowanie - sem.5 JA/1.0.0": {
+        "dependencies": {
+          "MyDll": "1.0.0"
+        },
+        "runtime": {
+          "Winietowanie - sem.5 JA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winietowanie - sem.5 JA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+﻿  Assembling asmVignette.asm...
+asmVignette.asm(180): warning A6004: procedure argument or local not referenced : pcR
+asmVignette.asm(180): warning A6004: procedure argument or local not referenced : pcG
+asmVignette.asm(180): warning A6004: procedure argument or local not referenced : pcB
+     Creating library C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette - kopia\Winietowanie - sem.5 JA\x64\Debug\MyDll.lib and object C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette - kopia\Winietowanie - sem.5 JA\x64\Debug\MyDll.exp
+  MyDll.vcxproj -> C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette — kopia\Winietowanie - sem.5 JA\x64\Debug\MyDll.dll

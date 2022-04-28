@@ -1,0 +1,4 @@
+﻿  Assembling asmVignette.asm...
+     Creating library C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\x64\Release\MyDll.lib and object C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\x64\Release\MyDll.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  MyDll.vcxproj -> C:\Users\krzys\source\repos\C#\Projekt JA sem5 - vignette\Winietowanie - sem.5 JA\x64\Release\MyDll.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Winietowanie - sem.5 JA": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
